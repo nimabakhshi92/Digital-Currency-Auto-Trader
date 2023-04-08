@@ -1,0 +1,502 @@
+[INFO] - [2022-06-05 23:34:10,438] -- Program started
+[INFO] - [2022-06-05 23:34:10,438] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:34:10,438] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:34:11,032] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:34:11,032] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:12,323] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:34:12,354] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:13,557] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:34:18,578] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:34:18,578] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:19,047] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:34:19,078] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:19,561] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:34:19,577] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:20,030] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:34:20,046] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:20,531] -- https://api.nobitex.ir:443 "POST /market/orders/add HTTP/1.1" 400 110
+[INFO] - [2022-06-05 23:34:25,557] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:34:25,562] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:26,866] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:34:26,886] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:28,147] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:34:28,167] -- Sell remaining equities, counter = 1
+[INFO] - [2022-06-05 23:34:33,174] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:34:33,178] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:34,496] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:34:34,521] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:35,799] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:34:35,812] -- Cancel pending positions, counter = 1
+[INFO] - [2022-06-05 23:34:35,817] -- Reporting, counter = 1
+[DEBUG] - [2022-06-05 23:34:35,819] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:36,293] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:34:36,297] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:36,761] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:34:36,774] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:37,260] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:34:37,266] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:38,463] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:34:43,493] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:34:43,498] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:44,863] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:34:44,889] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:34:46,196] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:34:46,233] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:35:09,334] -- Program started
+[INFO] - [2022-06-05 23:35:09,334] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:35:09,334] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:35:09,866] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:35:09,866] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:11,150] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:35:11,182] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:12,400] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:35:17,418] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:35:17,418] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:17,922] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:35:17,942] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:18,375] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:35:18,391] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:18,866] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:35:18,881] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:19,366] -- https://api.nobitex.ir:443 "POST /market/orders/add HTTP/1.1" 400 110
+[INFO] - [2022-06-05 23:35:24,384] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:35:24,384] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:25,649] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:35:25,665] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:26,831] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:35:26,863] -- Sell remaining equities, counter = 1
+[INFO] - [2022-06-05 23:35:31,872] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:35:31,872] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:33,138] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:35:33,153] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:34,403] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:35:34,434] -- Cancel pending positions, counter = 1
+[INFO] - [2022-06-05 23:35:34,434] -- Reporting, counter = 1
+[DEBUG] - [2022-06-05 23:35:34,450] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:34,950] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:35:34,966] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:35,410] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:35:35,425] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:35,925] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:35:35,941] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:37,144] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:35:42,173] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:35:42,173] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:43,470] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:35:43,501] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:35:44,657] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:35:44,689] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:36:09,176] -- Program started
+[INFO] - [2022-06-05 23:36:09,176] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:36:09,176] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:36:09,692] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:36:09,692] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:10,911] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:36:10,926] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:12,151] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:36:17,195] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:36:17,195] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:17,686] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:36:17,717] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:18,182] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:36:18,182] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:18,655] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:36:18,670] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:19,124] -- https://api.nobitex.ir:443 "POST /market/orders/add HTTP/1.1" 400 110
+[INFO] - [2022-06-05 23:36:24,129] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:36:24,129] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:25,346] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:36:25,377] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:26,736] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:36:26,767] -- Sell remaining equities, counter = 1
+[INFO] - [2022-06-05 23:36:31,775] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:36:31,775] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:33,041] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:36:33,056] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:34,228] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:36:34,260] -- Cancel pending positions, counter = 1
+[INFO] - [2022-06-05 23:36:34,260] -- Reporting, counter = 1
+[DEBUG] - [2022-06-05 23:36:34,275] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:34,728] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:36:34,744] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:35,246] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:36:35,246] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:35,726] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:36:35,726] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:36,922] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:36:41,947] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:36:41,947] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:43,150] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:36:43,183] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:36:44,433] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:36:44,449] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:38:43,951] -- Program started
+[INFO] - [2022-06-05 23:38:43,951] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:38:52,387] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:38:53,256] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:38:53,256] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:38:54,584] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:38:54,615] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:38:55,874] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:39:00,908] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:39:07,085] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:39:07,596] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:39:07,627] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:39:08,096] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:39:08,096] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:39:08,549] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:39:08,564] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:39:09,017] -- https://api.nobitex.ir:443 "POST /market/orders/add HTTP/1.1" 400 110
+[INFO] - [2022-06-05 23:39:35,622] -- Program started
+[INFO] - [2022-06-05 23:39:35,622] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:39:36,492] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:39:37,539] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:39:37,555] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:39:38,792] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:39:38,839] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:39:40,026] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:39:45,038] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:39:58,017] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:39:58,505] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:40:00,757] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:40:01,241] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:40:01,257] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:40:01,757] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:40:20,361] -- Program started
+[INFO] - [2022-06-05 23:40:20,361] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:40:21,419] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:40:22,280] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:40:22,296] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:40:23,639] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:40:23,671] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:40:25,061] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:40:30,097] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:40:34,180] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:40:34,664] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:40:41,766] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:40:42,203] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:42:07,045] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:42:07,529] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:51:04,622] -- Program started
+[INFO] - [2022-06-05 23:51:04,622] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:51:08,368] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:51:09,227] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:51:09,243] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:51:10,477] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:51:10,508] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:51:11,805] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:51:16,836] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:51:26,340] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:51:26,824] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:51:31,876] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:51:32,329] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:51:32,345] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:51:32,767] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:51:36,539] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:51:37,024] -- https://api.nobitex.ir:443 "POST /market/orders/add HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:54:09,877] -- Program started
+[INFO] - [2022-06-05 23:54:09,877] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:54:09,877] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:54:10,377] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:54:10,377] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:11,661] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:54:11,693] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:12,958] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:54:17,986] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:54:17,986] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:18,460] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:54:18,475] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:18,913] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:54:18,913] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:19,360] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:54:19,360] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:19,875] -- https://api.nobitex.ir:443 "POST /market/orders/add HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:54:19,891] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:21,094] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[WARNING] - [2022-06-05 23:54:31,137] -- buy order accepted. order_id = 665076448, order_amount = 14.28, order_price = 319270
+[INFO] - [2022-06-05 23:54:36,152] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:54:36,152] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:37,474] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:54:37,488] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:38,671] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:54:38,715] -- Sell remaining equities, counter = 1
+[DEBUG] - [2022-06-05 23:54:38,725] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:39,365] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:54:44,376] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:54:44,378] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:45,508] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:54:45,520] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:46,763] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:54:46,798] -- Cancel pending positions, counter = 1
+[DEBUG] - [2022-06-05 23:54:46,807] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:47,249] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:54:47,259] -- Reporting, counter = 1
+[DEBUG] - [2022-06-05 23:54:47,262] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:47,714] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:54:47,723] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:48,190] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:54:48,194] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:48,646] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:54:48,658] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:49,808] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:54:54,831] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:54:54,833] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:56,118] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:54:56,149] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:54:57,342] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:54:57,377] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:55:09,117] -- Program started
+[INFO] - [2022-06-05 23:55:09,117] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:55:09,117] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:55:09,778] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:55:09,780] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:10,988] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:55:11,014] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:12,234] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:55:17,291] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:55:17,314] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:17,806] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:55:17,816] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:18,267] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:55:18,271] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:18,756] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:55:18,768] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:19,299] -- https://api.nobitex.ir:443 "POST /market/orders/add HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:55:19,311] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:20,522] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[WARNING] - [2022-06-05 23:55:30,539] -- buy order accepted. order_id = 665076618, order_amount = 13.13, order_price = 318951
+[INFO] - [2022-06-05 23:55:35,556] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:55:35,561] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:36,785] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:55:36,809] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:38,082] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:55:38,126] -- Sell remaining equities, counter = 1
+[DEBUG] - [2022-06-05 23:55:38,132] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:38,555] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:55:43,580] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:55:43,585] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:44,850] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:55:44,876] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:46,143] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:55:46,184] -- Cancel pending positions, counter = 1
+[DEBUG] - [2022-06-05 23:55:46,193] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:46,638] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:55:46,644] -- Reporting, counter = 1
+[DEBUG] - [2022-06-05 23:55:46,651] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:47,154] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:55:47,164] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:47,637] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:55:47,644] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:48,118] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:55:48,126] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:49,408] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:55:54,452] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:55:54,458] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:55,694] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:55:55,725] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:55:56,890] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:55:56,914] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:56:09,332] -- Program started
+[INFO] - [2022-06-05 23:56:09,332] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:56:09,332] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:56:09,954] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:56:09,957] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:11,204] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:56:11,222] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:12,727] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:56:17,792] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:56:17,801] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:18,337] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:56:18,351] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:18,813] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:56:18,818] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:19,273] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:56:19,277] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:19,771] -- https://api.nobitex.ir:443 "POST /market/orders/add HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:56:19,775] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:21,117] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[WARNING] - [2022-06-05 23:56:31,127] -- buy order accepted. order_id = 665076781, order_amount = 15, order_price = 318632
+[INFO] - [2022-06-05 23:56:36,141] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:56:36,147] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:37,461] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:56:37,481] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:38,633] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:56:38,672] -- Sell remaining equities, counter = 1
+[DEBUG] - [2022-06-05 23:56:38,678] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:39,196] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:56:44,223] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:56:44,231] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:45,561] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:56:45,596] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:46,849] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:56:46,887] -- Cancel pending positions, counter = 1
+[DEBUG] - [2022-06-05 23:56:46,896] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:47,360] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:56:47,368] -- Reporting, counter = 1
+[DEBUG] - [2022-06-05 23:56:47,372] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:47,856] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:56:47,869] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:48,340] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:56:48,353] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:48,820] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:56:48,833] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:50,017] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:56:55,056] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:56:55,064] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:56,317] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:56:56,347] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:56:57,590] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:56:57,635] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:57:09,144] -- Program started
+[INFO] - [2022-06-05 23:57:09,144] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:57:09,145] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:57:09,704] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:57:09,706] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:11,053] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:57:11,067] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:12,251] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:57:17,321] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:57:17,334] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:17,846] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:57:17,870] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:18,311] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:57:18,322] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:18,810] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:57:18,823] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:19,359] -- https://api.nobitex.ir:443 "POST /market/orders/add HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:57:19,371] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:20,835] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[WARNING] - [2022-06-05 23:57:30,869] -- buy order accepted. order_id = 665076965, order_amount = 15.14, order_price = 318313
+[INFO] - [2022-06-05 23:57:35,883] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:57:35,891] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:37,258] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:57:37,293] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:38,557] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:57:38,605] -- Sell remaining equities, counter = 1
+[DEBUG] - [2022-06-05 23:57:38,610] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:39,103] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:57:44,123] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:57:44,128] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:45,495] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:57:45,529] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:46,733] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:57:46,897] -- Cancel pending positions, counter = 1
+[DEBUG] - [2022-06-05 23:57:46,909] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:47,379] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:57:47,385] -- Reporting, counter = 1
+[DEBUG] - [2022-06-05 23:57:47,415] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:47,890] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:57:47,899] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:48,393] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:57:48,401] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:48,887] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:57:48,899] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:50,173] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:57:55,197] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:57:55,201] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:56,492] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:57:56,518] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:57:57,802] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:57:57,847] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:58:09,124] -- Program started
+[INFO] - [2022-06-05 23:58:09,125] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:58:09,125] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:58:09,730] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:58:09,733] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:11,036] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:58:11,066] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:12,248] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:58:17,298] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:58:17,365] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:17,811] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:58:17,825] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:18,313] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:58:18,324] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:18,780] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:58:18,788] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:19,493] -- https://api.nobitex.ir:443 "POST /market/orders/add HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:58:19,505] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:20,854] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[WARNING] - [2022-06-05 23:58:30,883] -- buy order accepted. order_id = 665077145, order_amount = 14.21, order_price = 317995
+[INFO] - [2022-06-05 23:58:35,901] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:58:35,907] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:37,217] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:58:37,241] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:38,556] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:58:38,594] -- Sell remaining equities, counter = 1
+[DEBUG] - [2022-06-05 23:58:38,601] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:39,071] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:58:44,095] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:58:44,105] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:45,374] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:58:45,404] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:46,673] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:58:46,689] -- Cancel pending positions, counter = 1
+[DEBUG] - [2022-06-05 23:58:46,693] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:47,110] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:58:47,114] -- Reporting, counter = 1
+[DEBUG] - [2022-06-05 23:58:47,117] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:47,552] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:58:47,563] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:48,061] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:58:48,067] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:48,471] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:58:48,475] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:49,743] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:58:54,786] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:58:54,790] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:55,975] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:58:56,007] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:58:57,239] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:58:57,279] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:59:09,113] -- Program started
+[INFO] - [2022-06-05 23:59:09,113] -- Come into the while loop, counter = 1
+[DEBUG] - [2022-06-05 23:59:09,113] -- Read configs, counter = 1
+[INFO] - [2022-06-05 23:59:09,696] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:59:09,698] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:11,045] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:59:11,076] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:12,334] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:59:17,387] -- Open new pending position, counter = 1
+[DEBUG] - [2022-06-05 23:59:17,400] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:17,945] -- https://api.nobitex.ir:443 "POST /users/wallets/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:59:17,966] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:18,427] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:59:18,440] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:18,905] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:59:18,915] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:19,380] -- https://api.nobitex.ir:443 "POST /market/orders/add HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:59:19,392] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:20,703] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[WARNING] - [2022-06-05 23:59:30,795] -- buy order accepted. order_id = 665077353, order_amount = 15.1, order_price = 317677
+[INFO] - [2022-06-05 23:59:35,838] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:59:35,846] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:37,078] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:59:37,103] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:38,377] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:59:38,414] -- Sell remaining equities, counter = 1
+[DEBUG] - [2022-06-05 23:59:38,415] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:38,863] -- https://api.nobitex.ir:443 "GET /v2/orderbook/DAIIRT HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:59:43,892] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:59:43,899] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:45,215] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:59:45,247] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:46,463] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:59:46,506] -- Cancel pending positions, counter = 1
+[DEBUG] - [2022-06-05 23:59:46,520] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:46,969] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:59:46,976] -- Reporting, counter = 1
+[DEBUG] - [2022-06-05 23:59:46,980] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:47,485] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:59:47,499] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:47,999] -- https://api.nobitex.ir:443 "POST /users/wallets/balance HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:59:48,008] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:48,483] -- https://api.nobitex.ir:443 "POST /market/stats HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:59:48,496] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:49,685] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:59:54,726] -- Update actionable orders, counter = 1
+[DEBUG] - [2022-06-05 23:59:54,733] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:55,949] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[DEBUG] - [2022-06-05 23:59:55,981] -- Starting new HTTPS connection (1): api.nobitex.ir:443
+[DEBUG] - [2022-06-05 23:59:57,205] -- https://api.nobitex.ir:443 "POST /market/orders/list HTTP/1.1" 200 None
+[INFO] - [2022-06-05 23:59:57,252] -- Sleep for next iteration, counter = 1

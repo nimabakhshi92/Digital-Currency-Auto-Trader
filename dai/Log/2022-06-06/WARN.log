@@ -1,0 +1,76 @@
+[WARNING] - [2022-06-06 00:00:30,957] -- buy order accepted. order_id = 665077533, order_amount = 14.55, order_price = 317359
+[WARNING] - [2022-06-06 00:01:31,075] -- buy order accepted. order_id = 665077682, order_amount = 12.71, order_price = 320160
+[WARNING] - [2022-06-06 00:01:52,004] -- sell order accepted. order_id = 665077758, order_amount = 12.7, order_price = 321760, equivalent buy price = 320160.0
+[WARNING] - [2022-06-06 00:03:30,966] -- buy order accepted. order_id = 665078048, order_amount = 13.75, order_price = 319840
+[WARNING] - [2022-06-06 00:04:30,667] -- buy order accepted. order_id = 665078235, order_amount = 12.83, order_price = 317042
+[WARNING] - [2022-06-06 00:08:35,463] -- order with id = 665077533 cancelled
+[WARNING] - [2022-06-06 00:08:35,969] -- order with id = 665078235 cancelled
+[WARNING] - [2022-06-06 00:11:39,880] -- sell order accepted. order_id = 665079517, order_amount = 14.28, order_price = 320866, equivalent buy price = 319270.0
+[WARNING] - [2022-06-06 00:12:30,894] -- buy order accepted. order_id = 665079663, order_amount = 15.37, order_price = 317359
+[WARNING] - [2022-06-06 00:12:51,321] -- sell order accepted. order_id = 665079720, order_amount = 13.72, order_price = 321439, equivalent buy price = 319840.0
+[WARNING] - [2022-06-06 00:14:30,916] -- buy order accepted. order_id = 665080014, order_amount = 12.86, order_price = 317042
+[WARNING] - [2022-06-06 00:55:32,552] -- buy order accepted. order_id = 665090181, order_amount = 13.92, order_price = 316725
+[WARNING] - [2022-06-06 00:55:50,507] -- order with id = 665077145 cancelled
+[WARNING] - [2022-06-06 00:55:50,936] -- order with id = 665077353 cancelled
+[WARNING] - [2022-06-06 00:55:51,354] -- order with id = 665079663 cancelled
+[WARNING] - [2022-06-06 00:55:51,838] -- order with id = 665080014 cancelled
+[WARNING] - [2022-06-06 00:55:52,265] -- order with id = 665090181 cancelled
+[WARNING] - [2022-06-06 00:56:30,957] -- buy order accepted. order_id = 665090380, order_amount = 13.31, order_price = 319300
+[WARNING] - [2022-06-06 01:24:29,871] -- buy order accepted. order_id = 665095646, order_amount = 15.06, order_price = 317995
+[WARNING] - [2022-06-06 01:25:30,584] -- buy order accepted. order_id = 665095816, order_amount = 14.38, order_price = 317677
+[WARNING] - [2022-06-06 01:26:30,812] -- buy order accepted. order_id = 665095986, order_amount = 14.3, order_price = 317359
+[WARNING] - [2022-06-06 01:48:31,048] -- buy order accepted. order_id = 665100160, order_amount = 12.54, order_price = 319760
+[WARNING] - [2022-06-06 01:49:30,906] -- buy order accepted. order_id = 665100334, order_amount = 15.39, order_price = 317042
+[WARNING] - [2022-06-06 01:50:30,633] -- buy order accepted. order_id = 665100469, order_amount = 14.11, order_price = 316725
+[WARNING] - [2022-06-06 02:13:34,868] -- order with id = 665095986 cancelled
+[WARNING] - [2022-06-06 02:13:35,382] -- order with id = 665100334 cancelled
+[WARNING] - [2022-06-06 02:13:35,936] -- order with id = 665100469 cancelled
+[WARNING] - [2022-06-06 02:51:01,779] -- buy order accepted. order_id = 665109536, order_amount = 14.68, order_price = 317359
+[WARNING] - [2022-06-06 02:52:51,866] -- buy order accepted. order_id = 665109735, order_amount = 15.04, order_price = 317042
+[WARNING] - [2022-06-06 02:54:34,197] -- buy order accepted. order_id = 665109938, order_amount = 13.67, order_price = 316725
+[WARNING] - [2022-06-06 04:29:39,265] -- sell order accepted. order_id = 665120035, order_amount = 13.31, order_price = 320896, equivalent buy price = 319300.0
+[WARNING] - [2022-06-06 04:30:40,898] -- sell order accepted. order_id = 665120138, order_amount = 12.51, order_price = 321358, equivalent buy price = 319760.0
+[WARNING] - [2022-06-06 04:57:36,005] -- order with id = 665109536 cancelled
+[WARNING] - [2022-06-06 04:57:36,441] -- order with id = 665109735 cancelled
+[WARNING] - [2022-06-06 04:57:36,916] -- order with id = 665109938 cancelled
+[WARNING] - [2022-06-06 04:58:31,671] -- buy order accepted. order_id = 665123592, order_amount = 15.05, order_price = 319440
+[WARNING] - [2022-06-06 05:09:30,842] -- buy order accepted. order_id = 665124946, order_amount = 14.02, order_price = 317359
+[WARNING] - [2022-06-06 05:10:31,175] -- buy order accepted. order_id = 665125031, order_amount = 13.78, order_price = 317042
+[WARNING] - [2022-06-06 05:11:33,166] -- buy order accepted. order_id = 665125173, order_amount = 12.91, order_price = 316725
+[WARNING] - [2022-06-06 05:19:38,404] -- sell order accepted. order_id = 665126587, order_amount = 15.04, order_price = 321037, equivalent buy price = 319440.0
+[WARNING] - [2022-06-06 05:52:38,379] -- sell order accepted. order_id = 665133400, order_amount = 15, order_price = 320225, equivalent buy price = 318632.0
+[WARNING] - [2022-06-06 05:53:38,246] -- sell order accepted. order_id = 665133671, order_amount = 15.14, order_price = 319904, equivalent buy price = 318313.0
+[WARNING] - [2022-06-06 05:54:38,096] -- sell order accepted. order_id = 665133937, order_amount = 13.08, order_price = 320545, equivalent buy price = 318951.0
+[WARNING] - [2022-06-06 05:58:38,851] -- sell order accepted. order_id = 665134981, order_amount = 14.38, order_price = 319265, equivalent buy price = 317677.0
+[WARNING] - [2022-06-06 05:59:38,601] -- sell order accepted. order_id = 665135246, order_amount = 15.03, order_price = 319584, equivalent buy price = 317995.0
+[WARNING] - [2022-06-06 06:24:38,820] -- sell order accepted. order_id = 665141287, order_amount = 14.01, order_price = 319150, equivalent buy price = 317359.0
+[WARNING] - [2022-06-06 06:25:38,610] -- sell order accepted. order_id = 665141610, order_amount = 13.78, order_price = 319150, equivalent buy price = 317042.0
+[WARNING] - [2022-06-06 06:26:38,691] -- sell order accepted. order_id = 665141981, order_amount = 12.88, order_price = 319150, equivalent buy price = 316725.0
+[WARNING] - [2022-06-06 06:28:31,496] -- buy order accepted. order_id = 665142620, order_amount = 13.97, order_price = 316308
+[WARNING] - [2022-06-06 06:29:31,159] -- buy order accepted. order_id = 665142960, order_amount = 13.48, order_price = 315992
+[WARNING] - [2022-06-06 06:30:31,440] -- buy order accepted. order_id = 665143315, order_amount = 15.11, order_price = 315676
+[WARNING] - [2022-06-06 07:33:30,899] -- buy order accepted. order_id = 665158038, order_amount = 15.55, order_price = 317677
+[WARNING] - [2022-06-06 07:44:38,178] -- sell order accepted. order_id = 665160613, order_amount = 15.54, order_price = 319580, equivalent buy price = 317677.0
+[WARNING] - [2022-06-06 07:47:31,019] -- buy order accepted. order_id = 665161396, order_amount = 14.93, order_price = 317359
+[WARNING] - [2022-06-06 07:47:48,287] -- order with id = 665143315 cancelled
+[WARNING] - [2022-06-06 07:48:30,885] -- buy order accepted. order_id = 665161670, order_amount = 12.87, order_price = 317677
+[WARNING] - [2022-06-06 08:06:31,024] -- buy order accepted. order_id = 665166046, order_amount = 14.7, order_price = 318169
+[WARNING] - [2022-06-06 08:06:48,095] -- order with id = 665142960 cancelled
+[WARNING] - [2022-06-06 08:07:31,863] -- buy order accepted. order_id = 665166319, order_amount = 13.94, order_price = 317042
+[WARNING] - [2022-06-06 08:08:31,398] -- buy order accepted. order_id = 665166722, order_amount = 15.15, order_price = 316725
+[WARNING] - [2022-06-06 08:11:39,034] -- sell order accepted. order_id = 665167718, order_amount = 14.68, order_price = 320210, equivalent buy price = 318169.0
+[WARNING] - [2022-06-06 08:25:31,494] -- buy order accepted. order_id = 665172307, order_amount = 14.87, order_price = 315992
+[WARNING] - [2022-06-06 08:48:37,090] -- order with id = 665142620 cancelled
+[WARNING] - [2022-06-06 08:48:37,519] -- order with id = 665172307 cancelled
+[WARNING] - [2022-06-06 08:49:31,703] -- buy order accepted. order_id = 665180013, order_amount = 14.41, order_price = 316408
+[WARNING] - [2022-06-06 08:52:31,546] -- buy order accepted. order_id = 665181014, order_amount = 14.42, order_price = 316092
+[WARNING] - [2022-06-06 09:02:38,660] -- sell order accepted. order_id = 665183885, order_amount = 13.94, order_price = 318627, equivalent buy price = 317042.0
+[WARNING] - [2022-06-06 09:03:38,505] -- sell order accepted. order_id = 665184236, order_amount = 14.93, order_price = 318945, equivalent buy price = 317359.0
+[WARNING] - [2022-06-06 09:04:38,704] -- sell order accepted. order_id = 665184535, order_amount = 12.83, order_price = 319265, equivalent buy price = 317677.0
+[WARNING] - [2022-06-06 09:35:38,879] -- sell order accepted. order_id = 665193467, order_amount = 15.14, order_price = 318308, equivalent buy price = 316725.0
+[WARNING] - [2022-06-06 09:44:38,875] -- sell order accepted. order_id = 665195950, order_amount = 14.39, order_price = 317990, equivalent buy price = 316408.0
+[WARNING] - [2022-06-06 10:07:38,901] -- sell order accepted. order_id = 665202342, order_amount = 14.41, order_price = 317672, equivalent buy price = 316092.0
+[WARNING] - [2022-06-06 22:26:31,144] -- buy order accepted. order_id = 665434625, order_amount = 14.89, order_price = 316288
+[WARNING] - [2022-06-06 22:27:31,048] -- buy order accepted. order_id = 665434897, order_amount = 13.79, order_price = 315972
+[WARNING] - [2022-06-06 22:32:31,350] -- buy order accepted. order_id = 665436237, order_amount = 14.08, order_price = 316725
+[WARNING] - [2022-06-06 23:58:12,225] -- sell order accepted. order_id = 665459065, order_amount = 14.06, order_price = 318308, equivalent buy price = 316725.0

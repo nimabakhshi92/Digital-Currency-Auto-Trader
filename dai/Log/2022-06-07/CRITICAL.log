@@ -1,0 +1,1 @@
+[CRITICAL] - [2022-06-07 02:41:37,975] -- ATTENTION: we have a response with status = ok BUT order_id in not in orders list, order id = 665502033

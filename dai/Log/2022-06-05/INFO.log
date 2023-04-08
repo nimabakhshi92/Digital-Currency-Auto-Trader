@@ -1,0 +1,121 @@
+[INFO] - [2022-06-05 23:34:10,438] -- Program started
+[INFO] - [2022-06-05 23:34:10,438] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:34:11,032] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:34:18,578] -- Open new pending position, counter = 1
+[INFO] - [2022-06-05 23:34:25,557] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:34:28,167] -- Sell remaining equities, counter = 1
+[INFO] - [2022-06-05 23:34:33,174] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:34:35,812] -- Cancel pending positions, counter = 1
+[INFO] - [2022-06-05 23:34:35,817] -- Reporting, counter = 1
+[INFO] - [2022-06-05 23:34:43,493] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:34:46,233] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:35:09,334] -- Program started
+[INFO] - [2022-06-05 23:35:09,334] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:35:09,866] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:35:17,418] -- Open new pending position, counter = 1
+[INFO] - [2022-06-05 23:35:24,384] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:35:26,863] -- Sell remaining equities, counter = 1
+[INFO] - [2022-06-05 23:35:31,872] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:35:34,434] -- Cancel pending positions, counter = 1
+[INFO] - [2022-06-05 23:35:34,434] -- Reporting, counter = 1
+[INFO] - [2022-06-05 23:35:42,173] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:35:44,689] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:36:09,176] -- Program started
+[INFO] - [2022-06-05 23:36:09,176] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:36:09,692] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:36:17,195] -- Open new pending position, counter = 1
+[INFO] - [2022-06-05 23:36:24,129] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:36:26,767] -- Sell remaining equities, counter = 1
+[INFO] - [2022-06-05 23:36:31,775] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:36:34,260] -- Cancel pending positions, counter = 1
+[INFO] - [2022-06-05 23:36:34,260] -- Reporting, counter = 1
+[INFO] - [2022-06-05 23:36:41,947] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:36:44,449] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:38:43,951] -- Program started
+[INFO] - [2022-06-05 23:38:43,951] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:38:53,256] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:39:00,908] -- Open new pending position, counter = 1
+[INFO] - [2022-06-05 23:39:35,622] -- Program started
+[INFO] - [2022-06-05 23:39:35,622] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:39:37,539] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:39:45,038] -- Open new pending position, counter = 1
+[INFO] - [2022-06-05 23:40:20,361] -- Program started
+[INFO] - [2022-06-05 23:40:20,361] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:40:22,280] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:40:30,097] -- Open new pending position, counter = 1
+[INFO] - [2022-06-05 23:51:04,622] -- Program started
+[INFO] - [2022-06-05 23:51:04,622] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:51:09,227] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:51:16,836] -- Open new pending position, counter = 1
+[INFO] - [2022-06-05 23:54:09,877] -- Program started
+[INFO] - [2022-06-05 23:54:09,877] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:54:10,377] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:54:17,986] -- Open new pending position, counter = 1
+[WARNING] - [2022-06-05 23:54:31,137] -- buy order accepted. order_id = 665076448, order_amount = 14.28, order_price = 319270
+[INFO] - [2022-06-05 23:54:36,152] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:54:38,715] -- Sell remaining equities, counter = 1
+[INFO] - [2022-06-05 23:54:44,376] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:54:46,798] -- Cancel pending positions, counter = 1
+[INFO] - [2022-06-05 23:54:47,259] -- Reporting, counter = 1
+[INFO] - [2022-06-05 23:54:54,831] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:54:57,377] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:55:09,117] -- Program started
+[INFO] - [2022-06-05 23:55:09,117] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:55:09,778] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:55:17,291] -- Open new pending position, counter = 1
+[WARNING] - [2022-06-05 23:55:30,539] -- buy order accepted. order_id = 665076618, order_amount = 13.13, order_price = 318951
+[INFO] - [2022-06-05 23:55:35,556] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:55:38,126] -- Sell remaining equities, counter = 1
+[INFO] - [2022-06-05 23:55:43,580] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:55:46,184] -- Cancel pending positions, counter = 1
+[INFO] - [2022-06-05 23:55:46,644] -- Reporting, counter = 1
+[INFO] - [2022-06-05 23:55:54,452] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:55:56,914] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:56:09,332] -- Program started
+[INFO] - [2022-06-05 23:56:09,332] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:56:09,954] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:56:17,792] -- Open new pending position, counter = 1
+[WARNING] - [2022-06-05 23:56:31,127] -- buy order accepted. order_id = 665076781, order_amount = 15, order_price = 318632
+[INFO] - [2022-06-05 23:56:36,141] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:56:38,672] -- Sell remaining equities, counter = 1
+[INFO] - [2022-06-05 23:56:44,223] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:56:46,887] -- Cancel pending positions, counter = 1
+[INFO] - [2022-06-05 23:56:47,368] -- Reporting, counter = 1
+[INFO] - [2022-06-05 23:56:55,056] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:56:57,635] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:57:09,144] -- Program started
+[INFO] - [2022-06-05 23:57:09,144] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:57:09,704] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:57:17,321] -- Open new pending position, counter = 1
+[WARNING] - [2022-06-05 23:57:30,869] -- buy order accepted. order_id = 665076965, order_amount = 15.14, order_price = 318313
+[INFO] - [2022-06-05 23:57:35,883] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:57:38,605] -- Sell remaining equities, counter = 1
+[INFO] - [2022-06-05 23:57:44,123] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:57:46,897] -- Cancel pending positions, counter = 1
+[INFO] - [2022-06-05 23:57:47,385] -- Reporting, counter = 1
+[INFO] - [2022-06-05 23:57:55,197] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:57:57,847] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:58:09,124] -- Program started
+[INFO] - [2022-06-05 23:58:09,125] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:58:09,730] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:58:17,298] -- Open new pending position, counter = 1
+[WARNING] - [2022-06-05 23:58:30,883] -- buy order accepted. order_id = 665077145, order_amount = 14.21, order_price = 317995
+[INFO] - [2022-06-05 23:58:35,901] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:58:38,594] -- Sell remaining equities, counter = 1
+[INFO] - [2022-06-05 23:58:44,095] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:58:46,689] -- Cancel pending positions, counter = 1
+[INFO] - [2022-06-05 23:58:47,114] -- Reporting, counter = 1
+[INFO] - [2022-06-05 23:58:54,786] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:58:57,279] -- Sleep for next iteration, counter = 1
+[INFO] - [2022-06-05 23:59:09,113] -- Program started
+[INFO] - [2022-06-05 23:59:09,113] -- Come into the while loop, counter = 1
+[INFO] - [2022-06-05 23:59:09,696] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:59:17,387] -- Open new pending position, counter = 1
+[WARNING] - [2022-06-05 23:59:30,795] -- buy order accepted. order_id = 665077353, order_amount = 15.1, order_price = 317677
+[INFO] - [2022-06-05 23:59:35,838] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:59:38,414] -- Sell remaining equities, counter = 1
+[INFO] - [2022-06-05 23:59:43,892] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:59:46,506] -- Cancel pending positions, counter = 1
+[INFO] - [2022-06-05 23:59:46,976] -- Reporting, counter = 1
+[INFO] - [2022-06-05 23:59:54,726] -- Update actionable orders, counter = 1
+[INFO] - [2022-06-05 23:59:57,252] -- Sleep for next iteration, counter = 1
